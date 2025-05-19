@@ -1,0 +1,10 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=500446000,RESOLUTION=480x360
+https://raw.githubusercontent.com/kripto1921k/kodi/refs/heads/main/360p.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=651372000,RESOLUTION=720x480
+https://raw.githubusercontent.com/kripto1921k/kodi/refs/heads/main/480p.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1531699000,RESOLUTION=1280x720
+https://raw.githubusercontent.com/kripto1921k/kodi/refs/heads/main/720p.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1297712000,RESOLUTION=1920x1080
+https://raw.githubusercontent.com/kripto1921k/kodi/refs/heads/main/p/m3u8/Como%20crear%20al%20chico%20ideal%20(2014).m3u8
